@@ -5,6 +5,8 @@ import (
 )
 
 func main() {
+	var z int
+	var x string 
 	fmt.Println("Hello World")
 	foo()
 	fmt.Println("Print something more")
